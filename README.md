@@ -6,6 +6,7 @@ DATA USED
 * Data cleaning, processing, and amalysis - MS Excel.
 * Interactive Dashboard - Ms Excel.
 
+
 REQUIREMENTS
 * Total casualties after an accident.
 * Total casualties and percentage of total with respect to accident severity and car accident.
@@ -14,6 +15,7 @@ REQUIREMENTS
 * Maximum casualties by road type.
 * Total casualties by road surface.
 * Relation between casualties by location/area and day/night.
+
 
 INSIGHTS
 * The year 2022 had fewer casualty reports compared to 2021.
