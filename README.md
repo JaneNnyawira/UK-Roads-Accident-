@@ -2,8 +2,8 @@
 
 
 DATA USED
-* I analysed UK road accidents in the years 2021 and 2022.
-* Data cleaning, processing, and amalysis - MS Excel.
+* Data - UK road accidents in the years 2021 and 2022.
+* Data Cleaning, Processing, and Analysis - MS Excel.
 * Interactive Dashboard - Ms Excel.
 
 
